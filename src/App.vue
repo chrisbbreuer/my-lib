@@ -3,5 +3,5 @@ import { HelloWorld } from '~/index'
 </script>
 
 <template>
-  <HelloWorld greeting="Hallo" />
+  <HelloWorld name="Doe" />
 </template>
